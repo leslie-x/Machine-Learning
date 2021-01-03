@@ -1,2 +1,2 @@
 # Basic Algorithm
-1.
+1. Binary search algorithm
